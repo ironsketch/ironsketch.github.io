@@ -8,6 +8,7 @@ url:         "http://intmain.in"
 date_format: "%b %-d, %Y"
 header_pages:
  - sos.html
+ - about.md
 
 # Google services
 google_verification:
