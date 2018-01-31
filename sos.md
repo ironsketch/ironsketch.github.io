@@ -6,9 +6,14 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+
+##### 01/30/18
+
+Today I set up my website again. I felt bad that it was not ready for class. I want to add a soft image to the background. I am pleased with the colors. I need to work on my bibliography. My goal is to have it be an official bibliography. But right now it's copy n paste. I would also like to see if I can't hone my timeline.. But that is less important to me as since this is such a huge project. I mostly want to go through the Deep Learning book since it will also force me to learn linear algebra amongst (I'm sure) many other things!
+
 ##### 01/27/18
 
-I started to go through the Deep Learning book. I am running through the introduction (worth it!). I was intrigued when it gave a real example of how AI fails.
+I started to go through the Deep Learning book. I am running through the introduction (worth it!). I was intrigued when it gave a real example of how AI fails. "It's inference engine detected an inconsistency in the story: it knew that people do not have electrical parts, but because Fred was holding an electric razor, it believed the entity "FredWhileShaving" contained electrical parts. It therefore asked whether Fred was still a person while he was shaving."
 
 ##### definitions #####
 
