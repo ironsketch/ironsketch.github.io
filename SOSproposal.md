@@ -12,6 +12,7 @@ permalink: /proposal/
 
 ## January 2018 
 
+------
 
 ###### 1 Overview
 
@@ -62,7 +63,7 @@ feel confident I could create a deliverable.
 I need to get permissions to submit books to my neural network. More than likely I do not see this being
 an issue with the multitude of free public domain books.
 
-###### 6 My Own Neural Network
+###### 6)  My Own Neural Network
 
 During this step I will feel confident enough with my knowledge of neural networks that I will create my own
 to process something simple like word associations based on locality. At this point I will have my database
@@ -70,7 +71,7 @@ of English words, and I will have books that I will have my neural network proce
 are used, I will create an algorithm to find words near colors and create associations. Before I move on from
 this step I want to be able to demonstrate visually (beautifully) the data procduced by this.
 
-###### 7 Data Collection: Word Associations
+###### 7)  Data Collection: Word Associations
 
 I need to create a survey where I get input from as many people as possible on their association of words,
 colors and feelings. Making the survey will be easy, surveymonkey and paper. Getting users is the hard
@@ -78,7 +79,7 @@ part. I assume I will walk the halls of the school, ask friends, families, etc. 
 Amazons sources for paying people pennies for filling out my surveys. I used to do them. I believe it’s
 https://www.mturk.com/
 
-###### 8 Deep Learning or More Neural Networks?
+###### 8)  Deep Learning or More Neural Networks?
 
 Finally I want to implement more neural networks or deep learning in order to implement associations of
 feelings with words and colors from my data collection above. This may be done with only neural networks
