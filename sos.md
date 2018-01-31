@@ -17,6 +17,6 @@ I started to go through the Deep Learning book. I am running through the introdu
 
 ##### definitions #####
 
-######AI###### 
+###### AI ###### 
 
 Aritificial Intelligence : a branch of computer science dealing with the simulation of intelligent behavior in computers. 2 : the capability of a machine to imitate intelligent human behavior.
