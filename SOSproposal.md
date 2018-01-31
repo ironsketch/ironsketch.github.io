@@ -5,9 +5,9 @@ permalink: /proposal/
 ---
 <center>
 ## OS Project Proposal
-Neural Networks and Deep Learning
-Michelle Bergin
-January 2018 
+## Neural Networks and Deep Learning
+## Michelle Bergin
+## January 2018 
 <center>
 
 ### 1 Overview
