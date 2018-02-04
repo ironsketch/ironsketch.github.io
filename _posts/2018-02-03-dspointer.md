@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      OS161 LAB7 Part2
+title:      const & *
 date:       2018-02-03
 summary:    const & Recerences * Pointers
-permalink: /lab7part2/
+permalink: /constandstar/
 categories: os161 c sys161 cscope const pointers references operating system programming programmer female computer science ghci haskell
 ---
 
