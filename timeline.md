@@ -4,6 +4,8 @@ title: TimeLine
 Permalink: /timeline/
 ---
 
+### General Overview ###
+
 ###### Deep Learning Book
 
 I do not think that this book will get done any time soon. This book specifically I am giving my self time throughout this quarter and next.
@@ -27,3 +29,13 @@ This will take a while to accumulate. I am thinking I may need to start this ear
 ###### Deep Learning Machine
 
 I do not see this a reality but it is still a goal. I have no time frame.
+
+### More Specific Timeline ###
+
+##### Feb 25th #####
+
+Create a gist of a data using hash tables, trees etc. Colors and words (small)
+
+##### Jan 29th #####
+
+Finish Website design
