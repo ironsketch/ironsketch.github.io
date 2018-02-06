@@ -20,3 +20,7 @@ done
 {% endhighlighting %}
 
 Simple but I am happy!
+
+  /\_/\
+ ( o.o )
+  > ^ <
