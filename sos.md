@@ -8,7 +8,7 @@ permalink: /sos/
 
 ##### 02/06/18
 
-I talked to the teacher about an idea I had to use the data structures we are using to make a simple silly relational network (would not call it a nueral network) But each word would have a % of use. Each color would have a percentage of use and compare... ? We will see. [Here](images/weirdidea-1.png) is an image of my abstract idea.
+I talked to the teacher about an idea I had to use the data structures we are using to make a simple silly relational network (would not call it a [neural network](#neural network)) But each word would have a % of use. Each color would have a percentage of use and compare... ? We will see. [Here](images/weirdidea-1.png) is an image of my abstract idea.
 
 I started reading a book I got at a used bookstore. 'Mapping the Mind' by Rita Carter. It seemed interesting and it has important information on how neurons work. Which I have studied breifly in the past so it is good to relearn. Unfortunately this book talks about [Phrenology](#phrenology) as if it's legitimate. :( I fear for the world. [Phrenology History of a Pseudoscience](https://theness.com/index.php/phrenology-history-of-a-pseudoscience/)
 
@@ -25,6 +25,10 @@ Today I set up my website again. I felt bad that it was not ready for class. I w
 I started to go through the Deep Learning book. I am running through the introduction (worth it!). I was intrigued when it gave a real example of how [AI](#ai) fails. "It's inference engine detected an inconsistency in the story: it knew that people do not have electrical parts, but because Fred was holding an electric razor, it believed the entity "FredWhileShaving" contained electrical parts. It therefore asked whether Fred was still a person while he was shaving."
 
 ##### definitions #####
+
+###### Neural Network ######
+
+Neural Network : a computer system modeled on the human brain and nervous system.
 
 ###### AI ###### 
 
