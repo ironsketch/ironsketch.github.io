@@ -21,6 +21,8 @@ done
 
 Simple but I am happy!
 
+{% highlight ascii %}
   /\_/\
  ( o.o )
   > ^ <
+{% endhighlight %}
