@@ -4,12 +4,12 @@ title: Bibliography
 permalink: /bibliography/
 ---
 
-# Bibliography #
+## Bibliography ##
 
 Goodfellow, Ian and Bengio, Yoshua and Courville, Aaron. Deep Learning. Cambridge, Massachusetts: MIT, 2016.
 
 
-## Links to Read for Research
+### Links to Read for Research
 
 [build-and-setup-your-own-deep-learning-server-from-scratch-e771dacaa252](https://towardsdatascience.com/build-and-setup-your-own-deep-learning-server-from-scratch-e771dacaa252)
 
