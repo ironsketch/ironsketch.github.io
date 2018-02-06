@@ -6,6 +6,9 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 02/05/18
+
+Focused on MidTerms, little time to read. I added my first book/resource used to my Bibliography. My partner gave me new books to help out with this project if I can get to reading them, and a book to borrow. Languages and Machines to borrow, Neural Networks for Pattern Recognition, and Foundations of Genetic Programming!
 
 ##### 01/30/18
 
