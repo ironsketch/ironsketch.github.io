@@ -16,3 +16,29 @@ I put this in my public area.
 public:
 	class const_iterator{
 {% endhighlight %}
+
+Then you need a constructor. Now a lot of this was done by my teacher so I won't be necessarily right on everything that I exlpain but I will try my best.
+
+{% highlight c++ %}
+const_iterator(bst &t){
+	t.elements->clear();
+	t.elements = t.inOrder();
+	it = t.elements->begin();
+}
+const_iterator(list<Obj> *l){
+it = l->end();
+}
+{% endhighlight %}
+
+To use your inOrder list you need to store an actual list somewhere. Now at first I was assuming that you would store it with your iterator class. Which is possible but I don't quite know enough to understand how to do that. From what the teacher was saying that you need to pass in the iterator as a parameter. But that isn't 'normal'. Iterators in c++ only use yourList.begin() and yourList.end() not yourList.end(it). So to solve whatever I just said, you put your list in your bst class. You also create one variable for your iterator class, typename list<Obj>::const_iterator it;
+
+How do the constructors get called? Through your bst class when the user calls it. In your bst class you will set up an end and begin functions. 
+
+{% highlight c++ %}
+const_iterator begin() {
+	return const_iterator(*this);
+}
+const_iterator end() {
+	return const_iterator(elements);
+}
+{% endhighlight %}
