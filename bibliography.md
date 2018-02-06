@@ -6,6 +6,10 @@ permalink: /bibliography/
 
 ## Bibliography ##
 
+[1]“dwyl/english-words: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion.” [Online]. Available: https://github.com/dwyl/english-words. [Accessed: 06-Feb-2018].
+
+[1][Online]. Available: https://www.gutenberg.org/files/11/11.txt. [Accessed: 06-Feb-2018].
+
 Goodfellow, Ian and Bengio, Yoshua and Courville, Aaron. Deep Learning. Cambridge, Massachusetts: MIT, 2016.
 
 Carter, Rita. Mapping the Mind. Los Angeles California. University of California Press, 1999.
