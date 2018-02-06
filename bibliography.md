@@ -8,6 +8,7 @@ permalink: /bibliography/
 
 Goodfellow, Ian and Bengio, Yoshua and Courville, Aaron. Deep Learning. Cambridge, Massachusetts: MIT, 2016.
 
+Carter, Rita. Mapping the Mind. Los Angeles California. University of California Press, 1999.
 
 ### Links to Read for Research
 

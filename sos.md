@@ -6,6 +6,10 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 02/06/18
+
+I started reading a book I got at a used bookstore. 'Mapping the Mind' by Rita Carter. It seemed interesting and it has important information on how neurons work. Which I have studied breifly in the past so it is good to relearn. Unfortunately this book talks about [Phrenology](#phrenology) as if it's legitimate. :( I fear for the world. [Phrenology History of a Pseudoscience](https://theness.com/index.php/phrenology-history-of-a-pseudoscience/)
+
 ##### 02/05/18
 
 Focused on MidTerms, little time to read. I added my first book/resource used to my Bibliography. My partner gave me new books to help out with this project if I can get to reading them, and a book to borrow. Languages and Machines to borrow, Neural Networks for Pattern Recognition, and Foundations of Genetic Programming!
@@ -23,3 +27,7 @@ I started to go through the Deep Learning book. I am running through the introdu
 ###### AI ###### 
 
 Aritificial Intelligence : a branch of computer science dealing with the simulation of intelligent behavior in computers. 2 : the capability of a machine to imitate intelligent human behavior.
+
+###### Phrenology ######
+
+Phrenology : the detailed study of the shape and size of the cranium as a supposed indication of character and mental abilities.
