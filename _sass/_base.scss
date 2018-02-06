@@ -14,7 +14,8 @@ MIT License http://opensource.org/licenses/MIT
 */
 
 html, body {
-  background-image: url('{{ site.baseurl }}/images/bck.png');
+  background-image: url('/images/bck2.png');
+  background-repeat: no-repeat;
   height: auto;
   min-height: 100%;
 }
