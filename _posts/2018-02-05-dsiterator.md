@@ -15,7 +15,7 @@ I put this in my public area.
 {% highlight c++ %}
 public:
 	class const_iterator{
-{% e
+{% endhighlight %}
 
 Then you need a constructor. Now a lot of this was done by my teacher so I won't be necessarily right on everything that I explain but I will try my best.
 
