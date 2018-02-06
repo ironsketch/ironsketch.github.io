@@ -12,4 +12,7 @@ So I have been working for a while trying to create a binary search tree. While 
 So I need to create a class for my iterator.
 I put this in my public area. 
 
-
+{% highlight c++ %}
+public:
+	class const_iterator{
+{% endhighlight %}
