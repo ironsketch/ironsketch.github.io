@@ -133,3 +133,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+
+page-img: "/images/bck.png"
