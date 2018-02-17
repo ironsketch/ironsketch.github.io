@@ -6,6 +6,10 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 02/17/18
+
+Been sick but back on track. I started to use Kahn academy to learn Linear Algebra. Having an understanding of Linear Algebra is needed for Deep Learning.
+
 ##### 02/06/18
 
 I talked to the teacher about an idea I had to use the data structures we are using to make a simple silly relational network (would not call it a [neural network](#Neural_Network)) But each word would have a % of use. Each color would have a percentage of use and compare... ? We will see. [Here](images/weirdidea-1.png) is an image of my abstract idea.
@@ -14,7 +18,7 @@ I started reading a book I got at a used bookstore. 'Mapping the Mind' by Rita C
 
 ##### 02/05/18
 
-Focused on MidTerms, little time to read. I added my first book/resource used to my Bibliography. My partner gave me new books to help out with this project if I can get to reading them, and a book to borrow. Languages and Machines to borrow, Neural Networks for Pattern Recognition, and Foundations of Genetic Programming!
+Focused on MidTerms, little time to read. I added my first book/resource used to my Bibliography. I was given new books to help out with this project.They are, Languages and Machines, Neural Networks for Pattern Recognition, and Foundations of Genetic Programming!
 
 ##### 01/30/18
 
