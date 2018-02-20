@@ -6,6 +6,8 @@ permalink: /bibliography/
 
 ## Bibliography ##
 
+A. H. Tulleken, “15 Steps to Implement a Neural Net,” code-spot, [http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/](http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/) 08-Oct-2009. .
+
 J. Holt, Linear Algebra with Applications. W. H. Freeman and Company, 2013.
 
 “(3) Linear Algebra,” Khan Academy. [Online]. Available: [https://www.khanacademy.org/math/linear-algebra](https://www.khanacademy.org/math/linear-algebra). [Accessed: 17-Feb-2018].
