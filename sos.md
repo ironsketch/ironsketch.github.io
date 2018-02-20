@@ -6,7 +6,7 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
-##### 02/19/18
+##### 02/20/18
 
 The teacher talked about learning how to make a basic Nueral Network in C++ since the school has had students do that in the past. That seems like fun and gives me a direct direction. I found a good blog to read which I will start today. [http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/](http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/)
 
