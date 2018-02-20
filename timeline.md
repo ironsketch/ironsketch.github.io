@@ -6,6 +6,10 @@ Permalink: /timeline/
 
 ### More Specific Timeline ###
 
+##### Apr 2nd [] #####
+
+Start creating my own Nueral Network, either through C++ or TensorFlow/Python. I must solidify my decision and actions by the beginning of Spring Quarter.
+
 ##### Feb 28th [] #####
 
 Create simple Nueral Network in C++
