@@ -6,9 +6,29 @@ Permalink: /timeline/
 
 ### More Specific Timeline ###
 
+##### June 26th [] #####
+
+Finish Ch 5 Linear Algebra with Applications (a section a week)
+
+##### June 5th [] #####
+
+Finish Ch 4 Linear Algebra with Applications (a section a week)
+
+##### May 15th [] #####
+
+Finish Ch 3 Linear Algebra with Applications (a section a week)
+
+##### Apr 10th [] #####
+
+Finish Ch 2 Linear Algebra with Applications (a section a week)
+
 ##### Apr 2nd [] #####
 
 Start creating my own Nueral Network, either through C++ or TensorFlow/Python. I must solidify my decision and actions by the beginning of Spring Quarter.
+
+##### March 20th [] #####
+
+Finish Ch 1 Linear in Algebra with Applications (a section a week)
 
 ##### Feb 28th [] #####
 
