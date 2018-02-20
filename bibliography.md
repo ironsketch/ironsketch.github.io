@@ -6,6 +6,12 @@ permalink: /bibliography/
 
 ## Bibliography ##
 
+“Processing.org.” [Online]. Available: [https://processing.org/](https://processing.org/). [Accessed: 20-Feb-2018].
+
+“plotutils - GNU Project - Free Software Foundation (FSF).” [Online]. Available: [https://www.gnu.org/software/plotutils/](https://www.gnu.org/software/plotutils/). [Accessed: 20-Feb-2018].
+
+“Armadillo: C++ linear algebra library.” [Online]. Available: [http://arma.sourceforge.net/](http://arma.sourceforge.net/). [Accessed: 20-Feb-2018].
+
 A. H. Tulleken, “15 Steps to Implement a Neural Net,” code-spot, [http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/](http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/) 08-Oct-2009. .
 
 J. Holt, Linear Algebra with Applications. W. H. Freeman and Company, 2013.

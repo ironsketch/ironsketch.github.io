@@ -8,6 +8,8 @@ permalink: /sos/
 
 ##### 02/20/18
 
+This walk through talks about having something that can process Matrix Algebra. Which sounds like to me like arrays and math. But I installed Armadillo just in case. And it is nice to be able to plot graphs (also recommended by the tutorial). In the future I would like to cat the info to a file and modify that in [https://processing.org/](https://processing.org/) but for now I will install PlotUtils. [https://www.gnu.org/software/plotutils/](https://www.gnu.org/software/plotutils/) 
+
 The teacher talked about learning how to make a basic Nueral Network in C++ since the school has had students do that in the past. That seems like fun and gives me a direct direction. I found a good blog to read which I will start today. [http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/](http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/)
 
 ##### 02/19/18
