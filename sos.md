@@ -6,6 +6,10 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 02/19/18
+
+I started 'trying' to teach myself Linear Algebra. I am using the book required by UW. Linear Algebra with Applications.
+
 ##### 02/17/18
 
 Been sick but back on track. I started to use Kahn academy to learn Linear Algebra. Having an understanding of Linear Algebra is needed for Deep Learning.

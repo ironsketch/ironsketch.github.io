@@ -6,6 +6,8 @@ permalink: /bibliography/
 
 ## Bibliography ##
 
+J. Holt, Linear Algebra with Applications. W. H. Freeman and Company, 2013.
+
 “(3) Linear Algebra,” Khan Academy. [Online]. Available: [https://www.khanacademy.org/math/linear-algebra](https://www.khanacademy.org/math/linear-algebra). [Accessed: 17-Feb-2018].
 
 “dwyl/english-words: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion.” [Online]. Available: [https://github.com/dwyl/english-words](https://github.com/dwyl/english-words). [Accessed: 06-Feb-2018].
