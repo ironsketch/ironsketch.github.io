@@ -18,6 +18,8 @@ To follow the guidelines of [http://code-spot.co.za/2009/10/08/15-steps-to-imple
 - Kronecker multiplication (only necessary for between row and column vectors)
 - and horizontal matrix concatenation.
 
+I am partial to vector in c++ so I am deciding to make my matrix be the data type (if that is the right thing to say) be vector.
+
 ##### 02/20/18
 
 This walk through talks about having something that can process Matrix Algebra. Which sounds like to me like arrays and math. But I installed Armadillo just in case. And it is nice to be able to plot graphs (also recommended by the tutorial). In the future I would like to cat the info to a file and modify that in [https://processing.org/](https://processing.org/) but for now I will install PlotUtils. [https://www.gnu.org/software/plotutils/](https://www.gnu.org/software/plotutils/) 
