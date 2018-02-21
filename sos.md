@@ -16,6 +16,7 @@ ordinary matrix multiplication;
 Hadamard multiplication (component-wise multiplication);
 Kronecker multiplication (only necessary for between row and column vectors); and
 horizontal matrix concatenation.
+
 Markup : * Bullet list
          * Nested bullet
          * Sub-nested bullet etc
