@@ -10,13 +10,13 @@ permalink: /sos/
 
 To follow the guidelines of [http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/e](http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/e) I first need to create a matrix library. 
 
--matrix transposition
--matrix addition
--matrix multiplication with a scalar
--ordinary matrix multiplication
--Hadamard multiplication (component-wise multiplication)
--Kronecker multiplication (only necessary for between row and column vectors)
--and horizontal matrix concatenation.
+- matrix transposition
+- matrix addition
+- matrix multiplication with a scalar
+- ordinary matrix multiplication
+- Hadamard multiplication (component-wise multiplication)
+- Kronecker multiplication (only necessary for between row and column vectors)
+- and horizontal matrix concatenation.
 
 ##### 02/20/18
 
