@@ -29,6 +29,10 @@ Start creating my own Nueral Network, either through C++ or TensorFlow/Python. I
 ##### March 20th [] #####
 
 Finish Ch 1 Linear in Algebra with Applications (a section a week)
+    
+###### Update ######
+
+Finished 1.1 ✓
 
 ##### Feb 28th [] #####
 
