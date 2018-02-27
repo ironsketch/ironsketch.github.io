@@ -10,17 +10,35 @@ Permalink: /timeline/
 
 Finish Ch 5 Linear Algebra with Applications (a section a week)
 
+* Section 5.1
+* Section 5.2
+* Section 5.3
+
 ##### June 5th [] #####
 
 Finish Ch 4 Linear Algebra with Applications (a section a week)
+
+* Section 4.1
+* Section 4.2
+* Section 4.3
 
 ##### May 15th [] #####
 
 Finish Ch 3 Linear Algebra with Applications (a section a week)
 
+* Section 3.1
+* Section 3.2
+* Section 3.3
+* Section 3.4
+* Section 3.5
+
 ##### Apr 10th [] #####
 
 Finish Ch 2 Linear Algebra with Applications (a section a week)
+
+* Section 2.1 
+* Section 2.2 
+* Section 2.3 
 
 ##### Apr 2nd [] #####
 
@@ -30,9 +48,10 @@ Start creating my own Nueral Network, either through C++ or TensorFlow/Python. I
 
 Finish Ch 1 Linear in Algebra with Applications (a section a week)
     
-###### Update ######
-
-Finished 1.1 ✓
+* Section 1.1 ✓
+* Section 1.2
+* Section 1.3
+* Section 1.4
 
 ##### Feb 28th [] #####
 
