@@ -17,6 +17,7 @@ I am having trouble following my dreams! I want to get into neural networks but 
 
 Here is a screen shot of my game.
 
+![Image of CatGame]
 (images/catGame.png)
 
 ##### 02/20/18
