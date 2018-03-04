@@ -44,6 +44,17 @@ Finish Ch 2 Linear Algebra with Applications (a section a week)
 
 Start creating my own Nueral Network, either through C++ or TensorFlow/Python. I must solidify my decision and actions by the beginning of Spring Quarter.
 
+##### March 31st [] #####
+
+* Add other characters (at the least have them scroll with the game and the ability to walk back and forth)
+* Detect collision with these other characters and cat
+* Implement health and decrement with collision
+* Implement death if player jumps on another character
+
+##### March 24th [] #####
+
+Add different platforms and create 'holes' where the cat can die from
+
 ##### March 20th [] #####
 
 Finish Ch 1 Linear in Algebra with Applications (a section a week)
@@ -52,6 +63,14 @@ Finish Ch 1 Linear in Algebra with Applications (a section a week)
 * Section 1.2
 * Section 1.3
 * Section 1.4
+
+##### March 17th [] #####
+
+Implement scrolling trees and clouds
+
+##### March 10th [] #####
+
+Finish Smooth Jumping
 
 ##### Feb 28th [] #####
 

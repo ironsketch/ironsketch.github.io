@@ -19,6 +19,8 @@ Here is a screen shot of my game.
 
 ![Image of CatGame](images/catGame.png)
 
+My github for this project is located at: [https://github.com/ironsketch/catPoop](https://github.com/ironsketch/catPoop)
+
 ##### 02/20/18
 
 This walk through talks about having something that can process Matrix Algebra. Which sounds like to me like arrays and math. But I installed Armadillo just in case. And it is nice to be able to plot graphs (also recommended by the tutorial). In the future I would like to cat the info to a file and modify that in [https://processing.org/](https://processing.org/) but for now I will install PlotUtils. [https://www.gnu.org/software/plotutils/](https://www.gnu.org/software/plotutils/) 
