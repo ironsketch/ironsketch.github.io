@@ -66,8 +66,8 @@ Finish Ch 1 Linear in Algebra with Applications (a section a week)
 
 ##### March 17th [] #####
 
-Implement scrolling trees and clouds ✓
-Implement time score and health
+* Implement scrolling trees and clouds ✓
+* Implement time score and health
 
 ##### March 10th [] #####
 
