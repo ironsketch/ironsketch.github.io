@@ -6,6 +6,14 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 03/04/18 2:49 AM
+
+I am having trouble with getting my cat to jump smoothly. So I deleted everything to do with jump and will attempt it later. I got my trees and clouds to scroll by. 
+
+As for the cat jumping. I have to recognize the key hit for jump (done) I then have to allow for the animetion of the cat to jump up. During this time I cannot let gravity affect the cat. Then the cat needs to allow gravity to bring it down. I need to make sure that the up button doesn't affect the cat through all of this... I am having a lot of trouble trying to figure out the logic to this.
+
+![Image of CatGame with Cloud](images/cld.png)
+
 ##### 03/03/18
 
 I am having trouble following my dreams! I want to get into neural networks but I feel as if I am flailing around. I got a book suggested by my teacher, it is on it's way. Object-oriented neural networks in C++ by Joey Rogers. I am going to try again when I get this book. But if all else fails I have been very religiously working on a python game. It has taught me a LOT already:
