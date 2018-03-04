@@ -6,6 +6,19 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 03/03/18
+
+I am having trouble following my dreams! I want to get into neural networks but I feel as if I am flailing around. I got a book suggested by my teacher, it is on it's way. Object-oriented neural networks in C++ by Joey Rogers. I am going to try again when I get this book. But if all else fails I have been very religiously working on a python game. It has taught me a LOT already:
+
+* I have learned more about programming organization
+* I have learned how to use classes
+* I am learning about timing issues with games.
+* I have succesfully been able to clear each goal I set for my self within a reasonable time frame.
+
+Here is a screen shot of my game.
+
+(images/catGame.png)
+
 ##### 02/20/18
 
 This walk through talks about having something that can process Matrix Algebra. Which sounds like to me like arrays and math. But I installed Armadillo just in case. And it is nice to be able to plot graphs (also recommended by the tutorial). In the future I would like to cat the info to a file and modify that in [https://processing.org/](https://processing.org/) but for now I will install PlotUtils. [https://www.gnu.org/software/plotutils/](https://www.gnu.org/software/plotutils/) 
