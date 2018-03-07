@@ -69,6 +69,10 @@ Finish Ch 1 Linear in Algebra with Applications (a section a week)
 * Implement scrolling trees and clouds ✓
 * Implement time score and health
 
+##### March 16th [] #####
+
+Rewrite classes in seperate files.
+
 ##### March 10th [] #####
 
 Finish Smooth Jumping
