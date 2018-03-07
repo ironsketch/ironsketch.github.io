@@ -71,9 +71,10 @@ Finish Ch 1 Linear in Algebra with Applications (a section a week)
 
 ##### March 16th [] #####
 
-Rewrite classes in seperate files.
+* Rewrite classes in seperate files.
+* Get cat hairball projectiles working backwards
 
-##### March 10th [] #####
+##### March 10th [✓] #####
 
 Finish Smooth Jumping
 
