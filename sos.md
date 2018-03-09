@@ -6,6 +6,12 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 03/09/18
+
+I got smooth jumping to work! I introduced velocity! Below will be a video of it. I also got projectile hairballs to work too! I started creating platforms that harm my cat and tied that into a health bar above. But I still want to refactor to create classes in seperate files for clarity sake. This is a new leap for me! It may take me awhile but I will get it.
+
+[https://youtu.be/YxQnRSdscAQ](https://youtu.be/YxQnRSdscAQ)
+
 ##### 03/04/18 2:49 AM
 
 I am having trouble with getting my cat to jump smoothly. So I deleted everything to do with jump and will attempt it later. I got my trees and clouds to scroll by. 
