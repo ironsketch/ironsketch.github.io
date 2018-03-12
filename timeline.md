@@ -60,7 +60,7 @@ Add different platforms and create 'holes' where the cat can die from
 Finish Ch 1 Linear in Algebra with Applications (a section a week)
     
 * Section 1.1 ✓
-* Section 1.2
+* Section 1.2 ✓ (03/12/2018)
 * Section 1.3
 * Section 1.4
 
