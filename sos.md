@@ -6,6 +6,10 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 03/11/18
+
+I added 9 lives to the cat (nine hearts) and add an 'enemy' which is a collidable surface that looks like lava. It affects the cats health. Here is an updated video: [https://youtu.be/3xZkFHpoB_8](https://youtu.be/3xZkFHpoB_8)
+
 ##### 03/09/18
 
 I got smooth jumping to work! I introduced velocity! Below will be a video of it. I also got projectile hairballs to work too! I started creating platforms that harm my cat and tied that into a health bar above. But I still want to refactor to create classes in seperate files for clarity sake. This is a new leap for me! It may take me awhile but I will get it.

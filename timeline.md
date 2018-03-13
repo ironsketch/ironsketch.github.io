@@ -48,12 +48,12 @@ Start creating my own Nueral Network, either through C++ or TensorFlow/Python. I
 
 * Add other characters (at the least have them scroll with the game and the ability to walk back and forth)
 * Detect collision with these other characters and cat
-* Implement health and decrement with collision
+* Implement health and decrement with collision ✓
 * Implement death if player jumps on another character
 
 ##### March 24th [] #####
 
-Add different platforms and create 'holes' where the cat can die from
+Add different platforms and create 'holes' where the cat can die from (WIP)
 
 ##### March 20th [] #####
 
@@ -64,19 +64,19 @@ Finish Ch 1 Linear in Algebra with Applications (a section a week)
 * Section 1.3
 * Section 1.4
 
-##### March 17th [] #####
+##### March 17th [✓] #####
 
 * Implement scrolling trees and clouds ✓
-* Implement time score and health
+* Implement length score and health ✓
 
 ##### March 16th [] #####
 
-* Rewrite classes in seperate files.
-* Get cat hairball projectiles working backwards
+* Rewrite classes in seperate files. (WIP)
+* Get cat hairball projectiles working backwards ✓
 
 ##### March 10th [✓] #####
 
-Finish Smooth Jumping
+Finish Smooth Jumping ✓
 
 ##### Feb 28th [] #####
 
@@ -84,11 +84,11 @@ Create simple Nueral Network in C++
 
 ##### Feb 19th [✓] #####
 
-Create a gist of a data using hash tables, trees etc. Colors and words (small)
+Create a gist of a data using hash tables, trees etc. Colors and words (small) ✓
 
 ##### Jan 29th [✓] #####
 
-Finish Website design
+Finish Website design ✓
 
 ### General Overview ###
 
