@@ -6,6 +6,9 @@ Permalink: /binary/
 
 ### Binary Exploitation ###
 
+##### 04/08/2018 #####
+For Modern Binary Exploitation I am also reading the book: Hacking the Art of Exploitation by Jon Erickson [https://nostarch.com/hacking2.htm](https://nostarch.com/hacking2.htm) I have finally finished CH2. Chapter 3 is about exploitation where 1 and 2 were about the C language. I read it all because my assumption is that this author will focus on teaching me specifics about the C language that can be exploited. 
+
 ##### 04/04/2018 #####
 
 Yesterday I started working on Modern Binary Exploitation bomb problems. I have already finished all crackme's last quarter and had started on ./bomb. But I found it very hard. Yesterday I saw that there was a second bomb exploit, ./cmubomb. So I started on that and got the first phase done.
