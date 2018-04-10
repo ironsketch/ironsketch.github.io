@@ -25,6 +25,8 @@ When using scanf the right most input will be the string and the left is the str
 * I noticed that the string format is %d so I decided to get the numerical value of that hex which is 5274
 * I submitted that as the password and got authenticated!
 
+![alt text](http://intmain.in/images/lab1C2.png "lab1C2")
+
 ##### 04/08/2018 #####
 
 For Modern Binary Exploitation I am also reading the book: Hacking the Art of Exploitation by Jon Erickson [https://nostarch.com/hacking2.htm](https://nostarch.com/hacking2.htm) I have finally finished CH2. Chapter 3 is about exploitation where 1 and 2 were about the C language. I read it all because my assumption is that this author will focus on teaching me specifics about the C language that can be exploited. 
