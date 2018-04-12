@@ -6,6 +6,8 @@ Permalink: /binary/
 
 ### Binary Exploitation ###
 
+¤[lab1C](#lab1C)¤[lab1B](#lab1B)¤
+
 ##### 04/11/2018 #####
 
 THIS WAS HARD!!! I again used radare2 and gdb to help me solve this puzzle. Thanks to David and Lucien!
