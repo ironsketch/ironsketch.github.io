@@ -6,13 +6,13 @@ Permalink: /binary/
 
 ### Binary Exploitation ###
 
-¤ [lab1C](#lab1C) ¤ [lab1B](#lab1B) ¤
+¤ [~lab1C](#~lab1C) ¤ [~lab1B](#~lab1B) ¤
 
 ##### 04/11/2018 
 
 THIS WAS HARD!!! I again used radare2 and gdb to help me solve this puzzle. Thanks to David and Lucien!
 
-##### lab1B #####
+##### ~lab1B #####
 
 * Running through lab1B in radare2 I noticed a function test. (To jump to a function type ':' then 's sym.functionname' or some variation you'll see)
 * Going to test I noticed that this function was taking the text 1337d00d and subtracting my password from it and comparing it to hex 0x15 which is decimal 21. My first thought was that I needed to find out what the decimal form of 21 - from the decimal form of 1337d00d. I found out that it was 322424824 and that in hex is 0x1337cff8. That succesfully passed that test. 
@@ -49,7 +49,7 @@ I submitted this as the password and got my shell!
 
 I was working on the lab.zip from the website but I was told to do the ones from warzone. That made my life a LOT easier. I solved the lab1C in about 5 minutes.
 
-##### lab1C #####
+##### ~lab1C #####
 
 * I first ran ./lab1C to see what would happen. As I assumed it wants a password.
 * I then opened up radare with r2 ./lab1C
@@ -66,11 +66,11 @@ When using scanf the right most input will be the string and the left is the str
 
 ![alt text](http://intmain.in/images/lab1C2.png "lab1C2")
 
-##### 04/08/2018 #####
+##### 04/08/2018 
 
 For Modern Binary Exploitation I am also reading the book: Hacking the Art of Exploitation by Jon Erickson [https://nostarch.com/hacking2.htm](https://nostarch.com/hacking2.htm) I have finally finished CH2. Chapter 3 is about exploitation where 1 and 2 were about the C language. I read it all because my assumption is that this author will focus on teaching me specifics about the C language that can be exploited. 
 
-##### 04/04/2018 #####
+##### 04/04/2018 
 
 Yesterday I started working on Modern Binary Exploitation bomb problems. I have already finished all crackme's last quarter and had started on ./bomb. But I found it very hard. Yesterday I saw that there was a second bomb exploit, ./cmubomb. So I started on that and got the first phase done.
 
