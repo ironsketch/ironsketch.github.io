@@ -6,13 +6,13 @@ Permalink: /binary/
 
 ### Binary Exploitation ###
 
-¤ [~lab1C](#~lab1C) ¤ [~lab1B](#~lab1B) ¤
+¤ [lab1C](#lab1c) ¤ [lab1B](#lab1b) ¤
 
 ##### 04/11/2018 
 
 THIS WAS HARD!!! I again used radare2 and gdb to help me solve this puzzle. Thanks to David and Lucien!
 
-##### ~lab1B #####
+##### lab1B #####
 
 * Running through lab1B in radare2 I noticed a function test. (To jump to a function type ':' then 's sym.functionname' or some variation you'll see)
 * Going to test I noticed that this function was taking the text 1337d00d and subtracting my password from it and comparing it to hex 0x15 which is decimal 21. My first thought was that I needed to find out what the decimal form of 21 - from the decimal form of 1337d00d. I found out that it was 322424824 and that in hex is 0x1337cff8. That succesfully passed that test. 
@@ -49,7 +49,7 @@ I submitted this as the password and got my shell!
 
 I was working on the lab.zip from the website but I was told to do the ones from warzone. That made my life a LOT easier. I solved the lab1C in about 5 minutes.
 
-##### ~lab1C #####
+##### lab1C #####
 
 * I first ran ./lab1C to see what would happen. As I assumed it wants a password.
 * I then opened up radare with r2 ./lab1C
