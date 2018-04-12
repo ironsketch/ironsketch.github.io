@@ -6,6 +6,31 @@ Permalink: /binary/
 
 ### Binary Exploitation ###
 
+##### 04/11/2018 #####
+
+THIS WAS HARD!!! I again used radare2 and gdb to help me solve this puzzle. Thanks to David and Lucien!
+
+###### lab1B ######
+
+* Running through lab1B in radare2 I noticed a function test. (To jump to a function type ':' then 's sym.functionname' or some variation you'll see)
+* Going to test I noticed that this function was taking the text 1337d00d and subtracting my password from it and comparing it to hex 0x15 which is decimal 21. My first thought was that I needed to find out what the decimal form of 21 - from the decimal form of 1337d00d. I found out that it was 322424824 and that in hex is 0x1337cff8. That succesfully passed that test. 
+
+![alt text](http://intmain.in/images/lab1B.png "lab1B")
+
+* This wasn't the solution though! I still got Invalid Password!
+* At this point I realize that although using strings in the console for lab1B (strings lab1B) I saw that string 'Invalid Password!' But I couldn't see it in radare2
+* After talking to David I learned that you can use izz in radare2 to see strings and associated addresses. This string was located at: 0x08048d1c
+* Then I remembered there is a way to find where this address is referenced. To do that type, 'axt @ 0x08048d1c' or in other words 'axt @ addy'
+* This was printed out: 'sym.decrypt; const char * s 0x8048a55 [data] mov dword [esp], str.Invalid_Password' You will see that the function is referenced here sym.decrypt. We can jump to it with, 's sym.decrypt'
+* In here I noticed that if there was a gobbledygook word, 'Q}|u`sfg~sf{}|a3' and I saw in radare2 that it was being XOR and in GDB I saw that it was being xor'd with 21 (hex 0x15) 
+* My instant thought was that I had to submit text after 322424824 that when XOR'd would equal that gobbledygook. So I quickly did that with python. This did not work. I was headed the right direction but sideways.
+* I then decided for fun to XOR the gobbledygook with a number from 1 to the highest ascii number to see what would happen. I stopped the loop for this program when if it equaled the result was Congratulations! And that's what I found! I found out that it can equal that word if XOR'd with 18!
+* After talking with Lucien and then taking a break and installing ubuntu and warzone on a google cloud VM instance I went back at it and then it dawned on me! I need to submit a number that when minused from the decimal format of 1337d00d would equal 18! Which is 322424827
+
+I submitted this as the password and got my shell!
+
+![alt text](http://intmain.in/images/lab1B2.png "lab1B2")
+
 ##### 04/09/2018 #####
 
 I was working on the lab.zip from the website but I was told to do the ones from warzone. That made my life a LOT easier. I solved the lab1C in about 5 minutes.
