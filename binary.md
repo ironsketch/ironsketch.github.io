@@ -31,7 +31,7 @@ You will see that the function is referenced here sym.decrypt. We can jump to it
 * In here I noticed that if there was a gobbledygook word, 
 
 {% highlight bash %}
-Q}|u\`sfg~sf{}|a3
+Q}|u`sfg~sf{}|a3
 {% endhighlight %}
 
 and I saw in radare2 that it was being XOR and in GDB I saw that it was being xor'd with 21 (hex 0x15) 
