@@ -6,9 +6,9 @@ Permalink: /binary/
 
 ### Binary Exploitation ###
 
-¤[lab1C](#lab1C)¤[lab1B](#lab1B)¤
+¤ [lab1C](#lab1C) ¤ [lab1B](#lab1B) ¤
 
-##### 04/11/2018 #####
+##### 04/11/2018 
 
 THIS WAS HARD!!! I again used radare2 and gdb to help me solve this puzzle. Thanks to David and Lucien!
 
@@ -45,7 +45,7 @@ I submitted this as the password and got my shell!
 
 ![alt text](http://intmain.in/images/lab1B2.png "lab1B2")
 
-##### 04/09/2018 #####
+##### 04/09/2018 
 
 I was working on the lab.zip from the website but I was told to do the ones from warzone. That made my life a LOT easier. I solved the lab1C in about 5 minutes.
 
@@ -84,12 +84,12 @@ Here is what I noticed.
 
 Now I am trying to get through phase_2. Again I ran through radare and I am finding a function that is called after phase_2 is called but seemingly before phase_2 is run. It's sym.read_six_numbers. I tried using GDB to see what is happening because I am getting confused but I get a segmentation fault at this point... :/ So here is what I am noticing:
 
-###### Phase_2 ######
+###### Phase_2
 
 * It's moving what's passed through by arg_8h to edx
 * Then there is this weird thingy that I need to ask David about: add esp, 0xfffffffffffffff8
 * Then there is this thing with a local variable: lea eax, [local_18h] I'm confused by lea. I know it's an arithmetic operator for higher bit calculations or something like that but I... am... confuzzled
 
-###### read_six_numbers ######
+###### read_six_numbers
 
 * Phase_2 then jumps to this function where it fails... But it fails before (or so I think) it even gets to the comparison. I am a bit stuck. I need help at this point.
