@@ -22,7 +22,7 @@ THIS WAS HARD!!! I again used radare2 and gdb to help me solve this puzzle. Than
 * After talking to David I learned that you can use izz in radare2 to see strings and associated addresses. This string was located at: 0x08048d1c
 * Then I remembered there is a way to find where this address is referenced. To do that type, 'axt @ 0x08048d1c' or in other words 'axt @ addy'
 * This was printed out: 'sym.decrypt; const char * s 0x8048a55 [data] mov dword [esp], str.Invalid_Password' You will see that the function is referenced here sym.decrypt. We can jump to it with, 's sym.decrypt'
-* In here I noticed that if there was a gobbledygook word, 'Q}|u`sfg~sf{}|a3' and I saw in radare2 that it was being XOR and in GDB I saw that it was being xor'd with 21 (hex 0x15) 
+* In here I noticed that if there was a gobbledygook word, 'Q}|u\`sfg~sf{}|a3' and I saw in radare2 that it was being XOR and in GDB I saw that it was being xor'd with 21 (hex 0x15) 
 * My instant thought was that I had to submit text after 322424824 that when XOR'd would equal that gobbledygook. So I quickly did that with python. This did not work. I was headed the right direction but sideways.
 * I then decided for fun to XOR the gobbledygook with a number from 1 to the highest ascii number to see what would happen. I stopped the loop for this program when if it equaled the result was Congratulations! And that's what I found! I found out that it can equal that word if XOR'd with 18!
 * After talking with Lucien and then taking a break and installing ubuntu and warzone on a google cloud VM instance I went back at it and then it dawned on me! I need to submit a number that when minused from the decimal format of 1337d00d would equal 18! Which is 322424827
