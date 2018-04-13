@@ -6,7 +6,7 @@ Permalink: /binary/
 
 ## Binary Exploitation ###
 
-### ¤ [**lab1C**](#lab1c) ¤ [**lab1B**](#lab1b) ¤
+#### ¤ [**lab1C**](#lab1c) ¤ [**lab1B**](#lab1b) ¤
 
 ##### 04/11/2018 
 
