@@ -4,6 +4,10 @@ title: SOS
 permalink: /sos/
 ---
 
+# SOS Project Neural Networks
+
+### [Proposal](http://intmain.in/proposal/) [Timeline](http://intmain.in/timeline/) [Bibliography](http://intmain.in/bibliography/)
+
 [Definitions](#definitions)
 
 ##### 03/11/18
