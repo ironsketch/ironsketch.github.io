@@ -6,56 +6,19 @@ permalink: /sos/
 
 ## SOS Project Neural Networks
 
-#### [Proposal](http://intmain.in/proposal/) ¤ [Timeline](http://intmain.in/timeline/) ¤ [Bibliography](http://intmain.in/bibliography/)
+#### ¤ [Proposal](http://intmain.in/proposal/) ¤ [Timeline](http://intmain.in/timeline/) ¤ [Bibliography](http://intmain.in/bibliography/) ¤
 
 [Definitions](#definitions)
 
-##### 03/11/18
-
-I added 9 lives to the cat (nine hearts) and add an 'enemy' which is a collidable surface that looks like lava. It affects the cats health. Here is an updated video: [https://youtu.be/3xZkFHpoB_8](https://youtu.be/3xZkFHpoB_8)
-
-##### 03/09/18
-
-I got smooth jumping to work! I introduced velocity! Below will be a video of it. I also got projectile hairballs to work too! I started creating platforms that harm my cat and tied that into a health bar above. But I still want to refactor to create classes in seperate files for clarity sake. This is a new leap for me! It may take me awhile but I will get it.
-
-[https://youtu.be/YxQnRSdscAQ](https://youtu.be/YxQnRSdscAQ)
-
-##### 03/04/18 2:49 AM
-
-I am having trouble with getting my cat to jump smoothly. So I deleted everything to do with jump and will attempt it later. I got my trees and clouds to scroll by. 
-
-As for the cat jumping. I have to recognize the key hit for jump (done) I then have to allow for the animetion of the cat to jump up. During this time I cannot let gravity affect the cat. Then the cat needs to allow gravity to bring it down. I need to make sure that the up button doesn't affect the cat through all of this... I am having a lot of trouble trying to figure out the logic to this.
-
-![Image of CatGame with Cloud](images/cld.png)
-
 ##### 03/03/18
 
-I am having trouble following my dreams! I want to get into neural networks but I feel as if I am flailing around. I got a book suggested by my teacher, it is on it's way. Object-oriented neural networks in C++ by Joey Rogers. I am going to try again when I get this book. But if all else fails I have been very religiously working on a python game. It has taught me a LOT already:
-
-* I have learned more about programming organization
-* I have learned how to use classes
-* I am learning about timing issues with games.
-* I have succesfully been able to clear each goal I set for my self within a reasonable time frame.
-
-Here is a screen shot of my game.
-
-![Image of CatGame](images/catGame.png)
-
-My github for this project is located at: [https://github.com/ironsketch/catPoop](https://github.com/ironsketch/catPoop)
+I am having trouble following my dreams! I want to get into neural networks but I feel as if I am flailing around. I got a book suggested by my teacher, it is on it's way. Object-oriented neural networks in C++ by Joey Rogers. I am going to try again when I get this book.
 
 ##### 02/20/18
 
 This walk through talks about having something that can process Matrix Algebra. Which sounds like to me like arrays and math. But I installed Armadillo just in case. And it is nice to be able to plot graphs (also recommended by the tutorial). In the future I would like to cat the info to a file and modify that in [https://processing.org/](https://processing.org/) but for now I will install PlotUtils. [https://www.gnu.org/software/plotutils/](https://www.gnu.org/software/plotutils/) 
 
 The teacher talked about learning how to make a basic Nueral Network in C++ since the school has had students do that in the past. That seems like fun and gives me a direct direction. I found a good blog to read which I will start today. [http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/](http://code-spot.co.za/2009/10/08/15-steps-to-implemented-a-neural-net/)
-
-##### 02/19/18
-
-I started 'trying' to teach myself Linear Algebra. I am using the book required by UW. Linear Algebra with Applications.
-
-##### 02/17/18
-
-Been sick but back on track. I started to use Kahn academy to learn Linear Algebra. Having an understanding of Linear Algebra is needed for Deep Learning.
 
 ##### 02/06/18
 

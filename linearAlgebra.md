@@ -4,6 +4,10 @@ title: Linear Algebra
 permalink: /linearAlgebra/
 ---
 
+## Linear Algebra
+
+#### ¤ [Timeline](http://intmain.in/timelineAlgebra/) ¤
+
 ##### 04/12/18
 
 Because I am already taking 18 credits I am putting Linear Algebra a bit aside. It's important to me and I love learning it so this page will be up as well as a dedicated timeline. Regardless if I meet those dates o.o!
