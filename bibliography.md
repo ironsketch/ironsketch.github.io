@@ -4,7 +4,11 @@ title: Bibliography
 permalink: /bibliography/
 ---
 
-## Bibliography ##
+## SOS Project Neural Networks
+
+#### ¤ [Proposal](http://intmain.in/proposal/) ¤ [Timeline](http://intmain.in/timeline/) ¤ [Bibliography](http://intmain.in/bibliography/) ¤
+
+### Bibliography ##
 
 “Processing.org.” [Online]. Available: [https://processing.org/](https://processing.org/). [Accessed: 20-Feb-2018].
 
