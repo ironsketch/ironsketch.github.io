@@ -8,7 +8,7 @@ Permalink: /binary/
 
 #### ¤ [**lab1C**](#lab1c) ¤ [**lab1B**](#lab1b) ¤ [**lab2C**](#lab2c) ¤
 
-##### 04/11/2018 
+##### 04/16/2018 
 
 ##### lab2C #####
 
