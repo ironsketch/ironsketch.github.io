@@ -6,7 +6,25 @@ Permalink: /binary/
 
 ## Binary Exploitation ###
 
-#### ¤ [**lab1C**](#lab1c) ¤ [**lab1B**](#lab1b) ¤
+#### ¤ [**lab1C**](#lab1c) ¤ [**lab1B**](#lab1b) ¤ [**lab1C**](#lab1c) ¤
+
+##### 04/11/2018 
+
+##### lab2C #####
+
+This was a lab to teach us about actually exploitation of a program. The source code was given on purpose so that we can see how a buffer overflow works. In the program 
+```
+int set_me = 0;
+char buf[15];
+```
+Becuase there is no bounds checking, although the buffer is set at 15 the more characters I enter will then start to fill up set_me. I knew this pretty much right away. What I didn't know how to do was complete the comparison in order to get to the password. set_me is compared to 0xdeadbeef which in decimal is 3735928559. So I need my input to be that number when put into set_me. I tried a LOT of ideas, learned about using the escape character. In the end the answer was: \xef\xbe\xad\xde
+
+You had to escape the raw bytes of deadbeef and do it in littlendian 
+
+But if you submit it just in command line as is, you will be passing the literal so instead you need to use the echo command with the $() to run a command.
+```
+./lab1C $(echo echo -e  AAAAAAAAAAAAAAA"\xef\xbe\xad\xde")
+```
 
 ##### 04/11/2018 
 
