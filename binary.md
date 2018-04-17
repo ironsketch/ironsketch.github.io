@@ -6,7 +6,26 @@ Permalink: /binary/
 
 ## Binary Exploitation ###
 
-#### ¤ [**lab1C**](#lab1c) ¤ [**lab1B**](#lab1b) ¤ [**lab2C**](#lab2c) ¤
+#### ¤ [**lab1C**](#lab1c) ¤ [**lab1B**](#lab1b) ¤ [**lab2C**](#lab2c) ¤ [**lab2B**](#lab2b) ¤
+
+##### 04/16/2018 
+
+##### lab2B #####
+
+I required a lot of help on this. I new that I somehow needed to overwrite something but I had no idea what! After talking with David I learned that we are overwriting the EIP (The next instruction to run during the return)
+
+So we ran the program with a looong string to see when it breaks, this didn't work. Later we found out that my program was sigfaulting but my computer wasn't printing out the error message. In order to work this lab I started to use GDB. We found out that it starts to over write our EIP at the letter r from this string:
+```
+123456789abcdefghijklmnopqrstufvxyz
+```
+It was segfaulting after the r. So that's where I needed to put the address of the function I wanted to run. I wanted to run shell which in radare I found was at 0x080486bd. 
+Using GDB I saw that the argument being passed to shell is grabbed from EBP. In radare I saw that it is offset by 8 bytes. At first I padded my shell address with my argument address by 8 A's. But this was 4 too many. So even though it is off by 8 you only need to write out 4 bytes. 
+I got the address of the variable exec_string's contents, "/bin/sh" using radare's command izz which was: 0x080487d0
+The final run to win was:
+```
+r $(echo -e 123456789abcdefghijklmnopqr"\xbd\x86\x04\x08AAAA\xd0\x87\x04\x08")
+```
+Also note that the addresses are put in in little endian
 
 ##### 04/16/2018 
 
@@ -19,11 +38,11 @@ char buf[15];
 ```
 Becuase there is no bounds checking, although the buffer is set at 15 the more characters I enter will then start to fill up set_me. I knew this pretty much right away. What I didn't know how to do was complete the comparison in order to get to the password. set_me is compared to 0xdeadbeef which in decimal is 3735928559. So I need my input to be that number when put into set_me. I tried a LOT of ideas, learned about using the escape character. In the end the answer was: \xef\xbe\xad\xde
 
-You had to escape the raw bytes of deadbeef and do it in littlendian 
+You had to escape the raw bytes of deadbeef and do it in little endian 
 
 But if you submit it just in command line as is, you will be passing the literal so instead you need to use the echo command with the $() to run a command.
 ```
-./lab1C $(echo echo -e  AAAAAAAAAAAAAAA"\xef\xbe\xad\xde")
+./lab1C $(echo -e  AAAAAAAAAAAAAAA"\xef\xbe\xad\xde")
 ```
 
 ##### 04/11/2018 
