@@ -10,11 +10,21 @@ Permalink: /timeline/
 
 ### More Specific Timeline ###
 
-##### Apr 2nd [] #####
+##### May 6th #####
+
+* Read [Lexical Co-occurrence, Statistical Significance, and Word Association](http://www.aclweb.org/anthology/D11-1098)
+* Fix math and add weighted average
+
+##### Apr 29th #####
+
+* Disallow words farther than 5 spaces from color word.
+* Disallow words smaller than 3 letters and disallow specific 3 letter words.
+
+##### ~~Apr 2nd []~~ #####
 
 Start creating my own Nueral Network, either through C++ or TensorFlow/Python. I must solidify my decision and actions by the beginning of Spring Quarter.
 
-##### Feb 28th [] #####
+##### ~~Feb 28th []~~ #####
 
 Create simple Nueral Network in C++
 
