@@ -8,6 +8,10 @@ permalink: /catGame/
 
 #### ¤ [Timeline](http://intmain.in/timelineCat/) ¤
 
+##### 04/22/18
+
+I finally sat down and fixed the cat poops. I realized that I was updating all instances of all poops. I had to then not use the skeleton gravity and use the poop class gravity overide to get them to behave. I have still an error with poop timing. They tend to come out faster and faster and then have a reset. So I need to see how I am programming the poops and fix them.
+
 ##### 04/12/18
 
 Other the break I refactored my cat game. Originally when I first programmed the cat game it was all in one file with many functions. This became efficient because, although you could make that work, there is no organization and when you want to make each character do something in the game, there has to be soo many new functions made. Not to mention the headache of many functions splaid about. I then refactored my cat game to have classes with functions. This was working out really well. I could use one class for many instances of a character (like the poops). But this too was all on one file, I also craved more organization, something wasn't right. I decided to refactor again (during spring break) I broke up the game into different python files and decided to learn how to create different class hierarchies. There are 4 files. The main file that runs the game and has the while loop to keep the game refreshing it's graphics. The second page is a small one to handle only the graphics setup. Then there are 2 more files. One is called skell for skeleton. This is the master class that holds all the generic classes that all other class will use. The last file is all classes. I could break this up in the future as well. Having classes that use skell makes my life a LOT easier. most of the functions I need are in the skeleton, but if a class needs a modified version I can still build it and I can also use the original master class. Because I had to refactor the cat game and deal with passing arguments between classes I am rebuilding the actions I had set up earlier. Below is a list of what I have done and what I need to do to catch up.
