@@ -10,6 +10,17 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 04/22/18
+
+I feel at a loss, helpless at my learning ability. But instead of give up, I started to just program anything, anything at all. I started to use python and started with parsing through many free text books in .txt format for colors. I take each sentance that has a color in it and find it's location in the sentance and then find each words absolute value from that color. 
+
+* Next I need to double check my math. I believe some of it is off already, I'm getting positions like 54 or so. 
+* Then I need to disallow words that are farther than 5 away from the color. Planned reading [Lexical Co-occurrence, Statistical Significance, and Word Association](http://www.aclweb.org/anthology/D11-1098)
+* Then I need to weed out words that are 2 or smaller letters and specific 3 letter words. For example, the, for, and, etc.
+* I need to implement a weighted average to find the average placement of color words and other words in relation to it's color.
+
+After all of this is done I will look at how my data is demonstrating corrolation and see how I can implement this into a neural network. I believe a lot of my confusion also comes from not having a good understanding of how neural networks work.
+
 ##### 03/03/18
 
 I am having trouble following my dreams! I want to get into neural networks but I feel as if I am flailing around. I got a book suggested by my teacher, it is on it's way. Object-oriented neural networks in C++ by Joey Rogers. I am going to try again when I get this book.
