@@ -10,12 +10,12 @@ Permalink: /timeline/
 
 ### More Specific Timeline ###
 
-##### May 6th #####
+##### May 6th [] #####
 
 * Read [Lexical Co-occurrence, Statistical Significance, and Word Association](http://www.aclweb.org/anthology/D11-1098)
 * Fix math and add weighted average
 
-##### Apr 29th #####
+##### Apr 29th [] #####
 
 * Disallow words farther than 5 spaces from color word.
 * Disallow words smaller than 3 letters and disallow specific 3 letter words.
