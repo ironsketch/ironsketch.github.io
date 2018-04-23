@@ -6,7 +6,21 @@ Permalink: /binary/
 
 ## Binary Exploitation ###
 
-#### ¤ [**lab1C**](#lab1c) ¤ [**lab1B**](#lab1b) ¤ [**lab2C**](#lab2c) ¤ [**lab2B**](#lab2b) ¤
+#### ¤ [**lab1C**](#lab1c) ¤ [**lab1B**](#lab1b) ¤ [**lab2C**](#lab2c) ¤ [**lab2B**](#lab2b) ¤ [**lab3C**](#lab3c) ¤
+
+##### 04/23/2018 
+
+##### lab3C #####
+
+This is a lab for learning how to inject shell code. The first thing I do is try to find out how this program is working and where the weak points are. 
+A few things I noticed:
+
+* The username is a global variable
+* The password doesn't matter, it will always fail
+* The password is passed in as a pointer
+
+I noticed that this program uses fgets so I read the man page and it takes a stream. This means that I can create a shell code in a file and feed it to the program. ... I think
+
 
 ##### 04/16/2018 
 
