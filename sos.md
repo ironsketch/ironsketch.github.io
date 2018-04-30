@@ -14,6 +14,8 @@ permalink: /sos/
 
 I started to read Measuring Simularity Between Sentances. Most noteable is it's discussion on relatedness. How words can be [hypernyms](#hypernym), [hyponyms](#hyponym), [troponyms](#troponym) etc. of eachother. It also discusses the [holonymy](#holonymy) and [meronymy](#meronymy) of words. How you can use these relations to to develope the actual meaning of what is being said. I can use some of this when I build my python code. I am not sure how yet though. But an example would be pine cone. What does pine and cone have in common? Pine could be an evergreen tree or to long for someone. Cone could mean a shape or the fruit of an evergreen tree.  
 
+One thing I can do though is make a tree of related words to each color and also create a matrix of all of these hypo,holo,mero meanings etc. In otherwords I think I found a way to create a matrix that could be fed into a nueral network. Depending on the relatedness of the color I could set a flag for it... Not 100% sure how to do this or exactly how I will organize the data. But I feel closer.
+
 ##### 04/22/18
 
 I feel at a loss, helpless at my learning ability. But instead of give up, I started to just program anything, anything at all. I started to use python and started with parsing through many free text books in .txt format for colors. I take each sentance that has a color in it and find it's location in the sentance and then find each words absolute value from that color. 
