@@ -10,6 +10,10 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 04/29/18
+
+I started to read Measuring Simularity Between Sentances. Most noteable is it's discussion on relatedness. How words can be [hypernyms](#hypernym), [hyponyms](#hyponym), [troponyms](#troponym) etc. of eachother. It also discusses the [holonymy](#holonymy) and [meronymy](#meronymy) of words. How you can use these relations to to develope the actual meaning of what is being said. I can use some of this when I build my python code. I am not sure how yet though. But an example would be pine cone. What does pine and cone have in common? Pine could be an evergreen tree or to long for someone. Cone could mean a shape or the fruit of an evergreen tree.  
+
 ##### 04/22/18
 
 I feel at a loss, helpless at my learning ability. But instead of give up, I started to just program anything, anything at all. I started to use python and started with parsing through many free text books in .txt format for colors. I take each sentance that has a color in it and find it's location in the sentance and then find each words absolute value from that color. 
@@ -50,6 +54,46 @@ Today I set up my website again. I felt bad that it was not ready for class. I w
 I started to go through the Deep Learning book. I am running through the introduction (worth it!). I was intrigued when it gave a real example of how [AI](#ai) fails. "It's inference engine detected an inconsistency in the story: it knew that people do not have electrical parts, but because Fred was holding an electric razor, it believed the entity "FredWhileShaving" contained electrical parts. It therefore asked whether Fred was still a person while he was shaving."
 
 ##### definitions #####
+
+###### Hypernym ######
+
+A word with a broad meaning that more specific words fall under; a super ordinant. Ex color is a hypernym of red.
+
+###### Hyponym ######
+
+Opposite of Hypernym. Ex. Red is a hyponym of color.
+
+###### Troponym ######
+
+A verb that indicates more precisely the manner of doing something by replacing a verb of a more generalized meaning ex. Stroll is a troponym of walk.
+
+###### Holonymy ######
+
+Greek holo, whole and nymy, name - defines the relationshop between a term denoting the whole and a term denoting a part of, or a member of, the whole
+
+###### Meronymy ######
+
+Similar to Holonymy but not in regards to the whole just a part of.
+
+###### Stochastic ######
+
+Randomly determined; having a random probability distribution or pattern that may be analyzed statistically but may not be predicted precisely.
+
+###### Accidence ######
+
+The part of grammar that deals with the inflection of words
+
+###### Inflexional ######
+
+In grammar, inflection or inflexion - sometimes called accidence - is the madofication of a word to express different grammatical ctegories such as tense, case, voice, aspect, person, number, gender, and mood,... The use of this suffix is inflection
+
+###### Polysemous ######
+
+Having multiple meanings
+
+###### Heuristic ######
+
+Enabling a person to discover or learn something for themselves
 
 ###### Neural_Network ######
 
