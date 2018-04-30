@@ -12,7 +12,9 @@ permalink: /sos/
 
 ##### 04/30/18
 
-I recatored my program. I set up a much clearer base program without logical redundancies. My next step now is to think about what I want to pull out and how I will pull that out. For example. If a word is a hypernym of another? Do I want to find that and how would I do that.
+I refactored my program. I set up a much clearer base program without logical redundancies. My next step now is to think about what I want to pull out and how I will pull that out. For example. If a word is a hypernym of another? Do I want to find that and how would I do that.
+
+I was able to import WordNet into python via NLTK python package. I am now learning what this is and how I may be able to use it for my program.
 
 ##### 04/29/18
 
