@@ -10,6 +10,10 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 04/30/18
+
+I recatored my program. I set up a much clearer base program without logical redundancies. My next step now is to think about what I want to pull out and how I will pull that out. For example. If a word is a hypernym of another? Do I want to find that and how would I do that.
+
 ##### 04/29/18
 
 I started to read Measuring Simularity Between Sentances. Most noteable is it's discussion on relatedness. How words can be [hypernyms](#hypernym), [hyponyms](#hyponym), [troponyms](#troponym) etc. of eachother. It also discusses the [holonymy](#holonymy) and [meronymy](#meronymy) of words. How you can use these relations to to develope the actual meaning of what is being said. I can use some of this when I build my python code. I am not sure how yet though. But an example would be pine cone. What does pine and cone have in common? Pine could be an evergreen tree or to long for someone. Cone could mean a shape or the fruit of an evergreen tree.  
