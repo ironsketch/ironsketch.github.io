@@ -10,7 +10,7 @@ permalink: /bibliography/
 
 ### Bibliography ##
 
-“WordNet | A Lexical Database for English.” [Online]. Available: https://wordnet.princeton.edu/. [Accessed: 02-May-2018].
+“WordNet A Lexical Database for English.” [Online]. Available: [https://wordnet.princeton.edu/](https://wordnet.princeton.edu/). [Accessed: 02-May-2018].
 
 “Processing.org.” [Online]. Available: [https://processing.org/](https://processing.org/). [Accessed: 20-Feb-2018].
 
@@ -40,7 +40,7 @@ C. H. Judd, Introduction to the scientific study of education. 2018.
 
 T. Holmes, Pictures and Problems from London Police Courts. 2018.
 
-“Project Gutenberg,” Project Gutenberg. [Online]. Available: http://www.gutenberg.org/. [Accessed: 03-Apr-2018].
+“Project Gutenberg,” Project Gutenberg. [Online]. Available: [http://www.gutenberg.org/](http://www.gutenberg.org/). [Accessed: 03-Apr-2018].
 
 E. S. Bellasis, River and Canal EngineeringThe characteristics of open flowing streams, and theprinciples and methods to be followed in dealing with them. 2018.
 
