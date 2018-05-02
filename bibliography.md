@@ -10,6 +10,8 @@ permalink: /bibliography/
 
 ### Bibliography ##
 
+“WordNet | A Lexical Database for English.” [Online]. Available: https://wordnet.princeton.edu/. [Accessed: 02-May-2018].
+
 “Processing.org.” [Online]. Available: [https://processing.org/](https://processing.org/). [Accessed: 20-Feb-2018].
 
 “plotutils - GNU Project - Free Software Foundation (FSF).” [Online]. Available: [https://www.gnu.org/software/plotutils/](https://www.gnu.org/software/plotutils/). [Accessed: 20-Feb-2018].
@@ -29,6 +31,28 @@ J. Holt, Linear Algebra with Applications. W. H. Freeman and Company, 2013.
 Goodfellow, Ian and Bengio, Yoshua and Courville, Aaron. Deep Learning. Cambridge, Massachusetts: MIT, 2016.
 
 Carter, Rita. Mapping the Mind. Los Angeles California. University of California Press, 1999.
+
+L. F. (Lyman F. Baum, Dorothy and the Wizard in Oz. 1996.
+
+J. Mudge, Fénelon: The Mystic. 2018.
+
+C. H. Judd, Introduction to the scientific study of education. 2018.
+
+T. Holmes, Pictures and Problems from London Police Courts. 2018.
+
+“Project Gutenberg,” Project Gutenberg. [Online]. Available: http://www.gutenberg.org/. [Accessed: 03-Apr-2018].
+
+E. S. Bellasis, River and Canal EngineeringThe characteristics of open flowing streams, and theprinciples and methods to be followed in dealing with them. 2018.
+
+Various, The American Missionary — Volume 41, No. 2, February, 1887. 2018.
+
+Lord Dunsany, The Book of Wonder. 2005.
+
+J. B. Cabell, The Line of Love; Dizain des Mariages. 2005.
+
+W. H. Hodgson, The Night Land. 2004.
+
+Anonymous, The Pennsylvania Journal of Prison Discipline and Philanthropy (Vol. IV, No. II, April 1949). 2018.
 
 ### Links to Read for Research
 
