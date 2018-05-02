@@ -10,6 +10,34 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 05/02/18
+
+Here is a rundown of my refactoring.
+
+![alt text](image/001.png)
+
+Above is my list of color words that I am focusing on.
+
+![alt text](image/002.png)
+
+Above is my simple code to walk a folder and pull out the name of all files in this folder. This folder holds all the text files of books.
+
+![alt text](image/003.png)
+
+Above is my code to cut out all unessecary !, ?, ;,, , etc. First I pull out new lines and change all ? and ! to . and after I split out each sentance I then replace any other word seperaters with no space. I then split each sentace by spaces.
+
+After that (for now) I print if I found a color and if it was already found I remark that I found it again. This is working exceptionally well.
+
+For now, I have a node being made for each new color. In the future I will add code to modify the original node with the data from the color that was found after the first time.
+
+![alt text](image/004.png)
+
+From above you can see the class for creating a new color. For each color created, so far I have set up an array for each word that is associated with the color. Each word is then processed in comparison to the color.
+
+![alt text](image/005.png)
+
+Above you can see that each word is then going to compare many different aspects that wordnet provides. I will in the future add a description of what each means. Each addition will be a number from 0 - 1. If none is created (which sometimes there is no corrolation then a 0 will be placed instead)
+
 ##### 04/30/18
 
 I refactored my program. I set up a much clearer base program without logical redundancies. My next step now is to think about what I want to pull out and how I will pull that out. For example. If a word is a hypernym of another? Do I want to find that and how would I do that.
