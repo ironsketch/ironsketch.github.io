@@ -20,6 +20,8 @@ Next I need to:
 * add a weighted change if the same word shows up
 * add a weighted change for when the same color shows up!
 
+![alt text](images/006.png)
+
 ##### 05/02/18
 
 Here is a rundown of my refactoring.
