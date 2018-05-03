@@ -10,6 +10,18 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 05/03/18
+
+I have now created a print function for my colors and words. As you can see below, each color has words associated with it. This is already really interesting to see what we associate each color too, and the patterns that emerge. 
+
+![alt text](images/007.png)
+
+Bullet points accomplished:
+
+* ~~get the absolute value distance from the color and add that to the word array~~
+
+For the other two bullet points I don't think a weighted difference actually applies yet.
+
 ##### 05/02/18
 
 I was able to succesfully create an array for each word in relation to the color in the sentance. The array has the WUP similarity and path similarity with wordnet. 
