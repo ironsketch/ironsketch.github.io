@@ -12,6 +12,16 @@ permalink: /sos/
 
 ##### 05/02/18
 
+I was able to succesfully create an array for each word in relation to the color in the sentance. The array has the WUP similarity and path similarity with wordnet. 
+
+Next I need to:
+
+* get the absolute value distance from the color and add that to the word array
+* add a weighted change if the same word shows up
+* add a weighted change for when the same color shows up!
+
+##### 05/02/18
+
 Here is a rundown of my refactoring.
 
 ![alt text](images/001.png)
