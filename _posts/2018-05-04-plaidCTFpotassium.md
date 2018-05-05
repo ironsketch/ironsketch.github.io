@@ -2,7 +2,7 @@
 layout:     post
 title:      Plaid CTF Potassium
 date:       2018-05-04
-summary:    Summary - 
+summary:    Summary - From the CTF plaidctf I saw potassium a Pwnable for 800 pts. Obviously it's going to be really hard and I don't expect my self to be able to solve this. But I am going to write down as much as I can to create opportunities for learning.
 categories: programming ctf pwn exploitation programmer synflood syn attack hack hacker deterlab networking female website bills github
 ---
 
