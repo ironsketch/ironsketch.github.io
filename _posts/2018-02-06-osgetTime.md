@@ -2,7 +2,7 @@
 layout:     post
 title:      OS GetTime.c
 date:       2018-02-06
-summary:    Almost done with Lab7 getTime.c  
+summary:    Summary - Lab7 in Operating Systems has been fun. I really enjoy modding and dividing : D But here is my silly little get time function... Unfortunately I am either wrong in getting the time or the server this runs off of is wrong. I will assume I am wrong.
 permalink: /oslab7gettime/
 categories: bash script curl os161 binary search tree c++ iterator c sys161 cscope const pointers references operating system programming programmer female computer science ghci haskell
 ---
