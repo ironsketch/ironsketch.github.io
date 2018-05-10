@@ -10,6 +10,17 @@ permalink: /sos/
 
 [Definitions](#definitions)
 
+##### 05/10/18
+
+I have now updated my program to find the path length relatedness and WUP relatedness.
+Wordnet has set up for each word a tree of related words. Depending on it's path length to another word it will have a related value from 0 -> 1.
+
+![alt text](images/synsets.png)
+
+Above you can see that each color has many words associated with it. Each word has 3 bits of information. A path_similarity, wup similarity and absolute location from the color word.
+path_similarity is: the seperation and difference between the two words in the database nodes of each word.
+wup_similarity is:
+
 ##### 05/03/18
 
 I have now created a print function for my colors and words. As you can see below, each color has words associated with it. This is already really interesting to see what we associate each color too, and the patterns that emerge. 
