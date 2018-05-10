@@ -18,8 +18,14 @@ Wordnet has set up for each word a tree of related words. Depending on it's path
 ![alt text](images/synsets.png)
 
 Above you can see that each color has many words associated with it. Each word has 3 bits of information. A path_similarity, wup similarity and absolute location from the color word.
-path_similarity is: the seperation and difference between the two words in the database nodes of each word.
-wup_similarity is:
+
+path_similarity is: how close the two concepts are in the taxonomy provided by wordnet. Deep_max is the deepest length in the taxonomy. The length is the distance between the two words.
+
+sim_path(c_1, c_2) = 2∙deep_max - len(c_1, c_2)
+
+wup_similarity is: a scaled measure of relatedness. This similarity takes the position concepts of c_1 and c_2 in the taxonomy relatively to the position of the most specific common consept of c_1 and c_2 into account, lso(c_1, c_2)
+
+sim_wup(c_1, c_2) = (2∙depth(lso(c_1, c_2))/(len(c_1, c_2) + 2∙depth(lso(c_1, c_2)))
 
 ##### 05/03/18
 
