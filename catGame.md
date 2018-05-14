@@ -12,7 +12,7 @@ permalink: /catGame/
 
 Below is a photo I took of my game as is and what it needs to be. I need to do another refactor in order to get levels to be a seperate thing.
 
-This photo is an idea for what my refactor will be like:
+This photo is an idea for what my refactor will be like
 
 ![Image of refactor design](images/photo.jpg) 
 
@@ -38,7 +38,9 @@ Over the break I refactored my cat game. Originally when I first programmed the 
 
 ##### 03/11/18
 
-I added 9 lives to the cat (nine hearts) and add an 'enemy' which is a collidable surface that looks like lava. It affects the cats health. Here is an updated video: [https://youtu.be/3xZkFHpoB_8](https://youtu.be/3xZkFHpoB_8)
+I added 9 lives to the cat (nine hearts) and add an 'enemy' which is a collidable surface that looks like lava. It affects the cats health. Here is an updated video 
+
+[https://youtu.be/3xZkFHpoB_8](https://youtu.be/3xZkFHpoB_8)
 
 ##### 03/09/18
 
@@ -46,7 +48,7 @@ I got smooth jumping to work! I introduced velocity! Below will be a video of it
 
 [https://youtu.be/YxQnRSdscAQ](https://youtu.be/YxQnRSdscAQ)
 
-##### 03/04/18 2:49 AM
+##### 03/04/18 2.49 AM
 
 I am having trouble with getting my cat to jump smoothly. So I deleted everything to do with jump and will attempt it later. I got my trees and clouds to scroll by. 
 
@@ -56,7 +58,7 @@ As for the cat jumping. I have to recognize the key hit for jump (done) I then h
 
 ##### 03/03/18
 
-I have been very religiously working on a python game. It has taught me a LOT already:
+I have been very religiously working on a python game. It has taught me a LOT already
 
 * I have learned more about programming organization
 * I have learned how to use classes
@@ -67,5 +69,5 @@ Here is a screen shot of my game.
 
 ![Image of CatGame](images/catGame.png)
 
-My github for this project is located at: [https://github.com/ironsketch/catPoop](https://github.com/ironsketch/catPoop)
+My github for this project is located at [https://github.com/ironsketch/catPoop](https://github.com/ironsketch/catPoop)
 
