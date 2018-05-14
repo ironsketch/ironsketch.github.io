@@ -14,7 +14,7 @@ Below is a photo I took of my game as is and what it needs to be. I need to do a
 
 This photo is an idea for what my refactor will be like
 
-![Image of refactor design](images/photo.jpg) 
+![Image of refactor design](images/photo22.jpg) 
 
 ##### 05/13/18
 
