@@ -8,6 +8,18 @@ permalink: /catGame/
 
 #### ¤ [Timeline](http://intmain.in/timelineCat/) ¤
 
+##### 05/14/18
+
+Below is a photo I took of my game as is and what it needs to be. I need to do another refactor in order to get levels to be a seperate thing.
+
+This photo is an idea for what my refactor will be like:
+
+![Image of refactor design](images/photo.jpg) 
+
+##### 05/13/18
+
+I need to create another file to host classes for levels. I think that would be an easy way to load and change what each level looks like.
+
 ##### 04/22/18
 
 I finally sat down and fixed the cat poops. I realized that I was updating all instances of all poops. I had to then not use the skeleton gravity and use the poop class gravity overide to get them to behave. I have still an error with poop timing. They tend to come out faster and faster and then have a reset. So I need to see how I am programming the poops and fix them.
