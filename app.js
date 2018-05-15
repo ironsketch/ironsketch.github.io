@@ -4,6 +4,7 @@ var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
 canvas.width = w
 canvas.height = h
+canvas.background-image = "src/sky.jpg"
 
 ctx.beginPath();
 ctx.rect(20, 40, 50, 50);
@@ -22,3 +23,4 @@ ctx.rect(160, 10, 100, 40);
 ctx.strokeStyle = "rgba(0, 0, 255, 0.5)";
 ctx.stroke();
 ctx.closePath();
+
