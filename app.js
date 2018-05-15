@@ -1,11 +1,14 @@
-function func(){
+function game(){
     var w = window.innerWidth;
     var h = window.innerHeight;
-var canvas = document.getElementById("myCanvas");
-var ctx = canvas.getContext("2d");
-canvas.width = w
-canvas.height = h
-canvas.background-image = "src/sky.jpg"
+    var canvas = document.getElementById("myCanvas");
+    var ctx = canvas.getContext("2d");
+    canvas.width = w;
+    canvas.height = h;
+    var background = new Image();
+    background.src = "src/sky.jpg";
+
+    ctx.drawImage(background,0,0);
 
 ctx.beginPath();
 ctx.rect(20, 40, 50, 50);
