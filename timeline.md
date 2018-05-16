@@ -12,15 +12,6 @@ Permalink: /timeline/
 
 * Fix average distance from color word.
 
-DFC = distance from color
-NDFC = new distance from color
-CL = color location
-NCL = new color location
-NoW = total number of times this word has appeared
-NoC = total number of times this color has appeared
-
-hmmm...
-
 * Find a way to relate colors with emotions based on words?
 * Find similarities from colors and emotions
 * Find what books could be read based on the emotion it implies 'overall'
