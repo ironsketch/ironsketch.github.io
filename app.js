@@ -1,16 +1,18 @@
-function game(){
-    var w = window.innerWidth;
-    var h = window.innerHeight;
-    var canvas = document.getElementById("myCanvas");
-    var ctx = canvas.getContext("2d");
-    canvas.width = w;
-    canvas.height = h;
-    var background = new Image();
-    background.src = "src/sky.jpg";
+var w = window.innerWidth;
+var h = window.innerHeight;
+var canvas = document.getElementById("myCanvas");
+var ctx = canvas.getContext("2d");
+canvas.width = w - 100;
+canvas.height = h - 100;
+var background = new Image();
+background.src = "src/sky.jpg";
 
-    ctx.drawImage(background,0,0);
-
-ctx.beginPath();
+var x = canvas.width/2;
+var y = canvas.height - 30;
+var dx = 2;
+var dy = -2;
+    background.onload = function(){ctx.drawImage(background,0,0,w - 100,h - 100);}
+    ctx.beginPath();
 ctx.rect(20, 40, 50, 50);
 ctx.fillStyle = "#FF0000";
 ctx.fill();
@@ -27,4 +29,16 @@ ctx.rect(160, 10, 100, 40);
 ctx.strokeStyle = "rgba(0, 0, 255, 0.5)";
 ctx.stroke();
 ctx.closePath();
+console.log("here")
+function draw() {
+    var x = canvas.width/2;
+    var y = canvas.height-30;
+    ctx.beginPath();
+    ctx.arc(x, y, 10, 0, Math.PI*2);
+    ctx.fillStyle = "#0095DD";
+    ctx.fill();
+    ctx.closePath();
+    x += dx;
+    y += dy;
 }
+setInterval(draw, 10);
